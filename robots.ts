@@ -5,10 +5,8 @@ export default function robots(): MetadataRoute.Robots {
     return {
         rules: {
             userAgent: '*',
-            allow: '/',
-            // exclusive path
-            disallow: '/dashboard',
+            allow: '/'
         },
-        sitemap: `${getBaseUrl()}/sitemap.xml`,
+        sitemap: `${getBaseUrl()}/app/sitemap.xml`,
     };
 }

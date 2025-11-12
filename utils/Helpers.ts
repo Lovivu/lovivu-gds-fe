@@ -16,7 +16,7 @@ export const getBaseUrl = () => {
     return `https://${process.env.VERCEL_URL}`;
   }
 
-  return process.env.NEXT_APP_URL || 'http://localhost:3000';
+  return 'http://localhost:3000';
 };
 
 export const getI18nPath = (url: string, locale: string) => {
