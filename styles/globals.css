@@ -1,9 +1,35 @@
 @layer theme, base, components, utilities;
 
-
-
 @import "tailwindcss";
+@import "./constant.css";
 @import "./typography.css";
+
+@layer utilities {
+
+  .bg-primary-gradient {
+    background: linear-gradient(to right, #024590, #01142A);
+  }
+
+  .bg-danger-gradient {
+    background: linear-gradient(to right, #841A1A, #EA2E2E);
+  }
+
+  .bg-sky-gradient {
+    background: linear-gradient(to right, #050C9C 0%, #3572EF 50%, #3ABEF9 75%, #A7E6FF 100%);
+  }
+
+  .text-primary-gradient {
+    background: linear-gradient(to right, #024590, #01142A);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .text-danger-gradient {
+    background: linear-gradient(to right, #841A1A, #EA2E2E);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}
 
 /* :root {
   --background: #ffffff;

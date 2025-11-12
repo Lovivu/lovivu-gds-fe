@@ -1,0 +1,22 @@
+@theme {
+  --color-foreground-primary: rgba(7, 154, 242, 1);
+  --color-foreground-secondary: rgba(209, 240, 255, 1);
+  --color-text-primary: rgba(2, 69, 144, 1);
+  --color-text-secondary: rgba(2, 69, 144, 0.5);
+  --color-text-white: rgba(242, 242, 247, 1);
+  --color-sub-foreground-send: rgba(238, 249, 255, 1);
+  --color-warn-bg: rgba(246, 255, 0, 1);
+  --color-warn-text: rgba(251, 65, 65, 1);
+  --color-danger-start: #841A1A;
+  --color-danger-end: #EA2E2E;
+  --color-primary-start: #024590;
+  --color-primary-end: #01142A;
+  --color-sky-1: #050C9C;
+  --color-sky-2: #3572EF;
+  --color-sky-3: #3ABEF9;
+  --color-sky-4: #A7E6FF;
+
+  --color-danger-gradient: linear-gradient(to right, var(--color-danger-start), var(--color-danger-end));
+  --color-primary-gradient: linear-gradient(to right, var(--color-primary-start), var(--color-primary-end));
+  --color-sky-gradient: linear-gradient(to right, var(--color-sky-1) 0%, var(--color-sky-2) 50%, var(--color-sky-3) 75%, var(--color-sky-4) 100%);
+}
