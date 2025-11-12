@@ -1,0 +1,7 @@
+h2 {
+    @apply text-2xl font-semibold mb-2;
+}
+
+h5 {
+    @apply text-lg font-medium mb-1;
+}

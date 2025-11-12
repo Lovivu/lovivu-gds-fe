@@ -1,0 +1,36 @@
+{
+    "common": {
+        "welcome": "Chào mừng đến với Lovivu",
+        "logout": "Đăng xuất",
+        "login": "Đăng nhập",
+        "signup": "Đăng ký"
+    },
+
+    "home_page": {
+        "title": "Chào mừng đến với Lovivu",
+        "description": "Người bạn đồng hành lập kế hoạch cá nhân của bạn."
+    },
+
+    "plan_create_page": {
+        "title": "Tạo Kế Hoạch Của Bạn",
+        "description": "Điền thông tin để tạo kế hoạch cá nhân hóa của bạn."
+    },
+    "plan_page": {
+        "title": "Kế Hoạch Của Bạn",
+        "description": "Xem và quản lý kế hoạch cá nhân hóa của bạn."
+    },
+    "plan_detail_page": {
+        "title": "Chi Tiết Kế Hoạch",
+        "description": "Xem chi tiết và cập nhật kế hoạch của bạn."
+    },
+
+    
+    "login_page": {
+        "title": "Đăng nhập vào Tài khoản của Bạn",
+        "description": "Nhập thông tin đăng nhập để truy cập tài khoản của bạn."
+    },
+    "register_page": {
+        "title": "Tạo Tài khoản Mới",
+        "description": "Điền thông tin để đăng ký tài khoản mới."
+    }
+}

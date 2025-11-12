@@ -1,0 +1,36 @@
+{
+  "common": {
+    "welcome": "Welcome to Lovivu",
+    "logout": "Logout",
+    "login": "Login",
+    "signup": "Sign Up"
+  },
+
+  "home_page": {
+    "title": "Welcome to Lovivu",
+    "description": "Your personalized planning companion."
+  },
+
+  "plan_create_page": {
+    "title": "Create Your Plan",
+    "description": "Fill in the details to create your personalized plan."
+  },
+  "plan_page": {
+    "title": "Your Plan",
+    "description": "View and manage your personalized plan."
+  },
+  "plan_detail_page": {
+    "title": "Plan Details",
+    "description": "View and update your plan details."
+  },
+
+
+  "login_page": {
+    "title": "Login to Your Account",
+    "description": "Enter your credentials to access your account."
+  },
+  "register_page": {
+    "title": "Create a New Account",
+    "description": "Fill in the details to register a new account."
+  }
+}
